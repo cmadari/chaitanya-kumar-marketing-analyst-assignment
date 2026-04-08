@@ -7,7 +7,7 @@ This project integrates Facebook, Google, and TikTok advertising data into a uni
 ## Tools Used
 - SQL
 - Python
-- Tableau Public
+- Power Bi Desktop
 
 ## Key Insights
 - Facebook → Best CPA
